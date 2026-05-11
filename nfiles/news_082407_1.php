@@ -1,0 +1,312 @@
+
+<html>
+<head>
+	<title>Nexera Medical - Antimicrobial Protection that is Committed to Saving Lives. - News</title>
+<link rel="stylesheet" href="../styles.css">
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if (document.images) {
+    var regionnav_us_off = new Image();
+  regionnav_us_off.src = "../graphics/regionnav_us_off.gif";
+  var regionnav_us_on = new Image();
+  regionnav_us_on.src = "../graphics/regionnav_us_on.gif";
+  
+    var regionnav_ca_off = new Image();
+  regionnav_ca_off.src = "../graphics/regionnav_ca_off.gif";
+  var regionnav_ca_on = new Image();
+  regionnav_ca_on.src = "../graphics/regionnav_ca_on.gif";
+  
+    var regionnav_ot_off = new Image();
+  regionnav_ot_off.src = "../graphics/regionnav_ot_off.gif";
+  var regionnav_ot_on = new Image();
+  regionnav_ot_on.src = "../graphics/regionnav_ot_on.gif";
+}
+
+function infOn(imgName) {
+  if (document.images)
+    document[imgName].src = eval(imgName + "on.src");
+}
+
+function infOff(imgName) {
+  if (document.images)
+    document[imgName].src = eval(imgName + "off.src");
+}
+// -->
+</SCRIPT>
+</head>
+
+
+<body>
+
+<div align="center">
+
+<!---
+<cfoutput>
+	<cfif session.regionsiteid EQ "unknown">
+					<cflocation url="/index.php" addtoken="no">
+	</cfif>
+</cfoutput>
+--->	
+
+		
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" width="300"><a href="../cfiles/home.php"><img src="../graphics/logo_hdmain.png" alt="Nexera Medical" width="250" height="70" border="0"></a></td>
+<td valign="top" width="670" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+	<tr>
+		<td valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" align="right">
+					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<td width="10"></td>
+                    <!---
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td>
+                    --->
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
+					<td width="10"></td>
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
+					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.php?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					</tr>
+				</table>
+				<br /><br />
+		</td>
+	</tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	</table>	
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+		<tr>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/home.php"> &nbsp; Home &nbsp; </a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/about.php">About Nexera</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/products.php">Products</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<!---		
+	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.php">Distributors</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	--->		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news_resourcelinks.php">Resources</a></div></td>
+	<!---
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/news.php">Newsroom</a></div></td>
+	--->
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/contact.php">Contact Us</a></div></td>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+		</tr>
+		</table>
+
+	<div class="mainsite">
+
+<Table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr>
+<td valign="top" bgcolor="#A9D505" height="6"><img src="../graphics/spacer.gif" border="0" width="970" height="6" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#FFFFFF" height="1"><img src="../graphics/spacer.gif" border="0" width="1" height="1" border="0"></td>
+</tr>
+</table>
+
+<Table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="middle" bgcolor="#171D57" width="660" class="hpheader">&nbsp;</td><td valign="middle" bgcolor="#171D57" width="120" class="hpheader">news</td>
+</tr>
+</table>
+
+<Table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="764">
+
+<!--- MAIN CONTENT AREA STARTS --->
+
+<div class="stdcontent">
+
+<div class="hdtitlemain">Ontario to supply safety needles
+</div><br>
+
+<strong><i>New equipment, including respirators, will greatly reduce risk of injury to health-care workers, Liberals say, but critics call measures political jockeying </i></strong>
+<br><br>
+
+STEVE RENNIE - Canadian Press<br>
+<strong>August 24, 2007 at 4:00 AM EDT</strong><br><br>
+
+<strong>TORONTO</strong> - Ontario's health-care workers will have another line of defence against life-threatening diseases after the province announced yesterday it will provide nurses with new respirators and safety needles to guard against job-related injuries and infections.
+<br><br>
+
+Health Minister George Smitherman and Labour Minister Steve Peters made the announcement at North York General Hospital, where nurses were on the front lines during Toronto's SARS outbreak four years ago.
+<br><br>
+
+Mr. Smitherman praised the hospital as a "key player" during the crisis that prompted the World Health Organization to issue an advisory against unnecessary travel to the city.
+<br><br>
+
+"A very, very big obligation on my part has been to learn and to apply the lessons from SARS," he said. "This is one more piece of that puzzle. There are hundreds and hundreds of pieces, and we're working very diligently to put them together."
+<br><br>
+
+The government will purchase up to 55 million new N95 respirators, which provide better protection than standard surgical masks against diseases such as SARS and the flu.
+<br><br>
+
+A provincial inquiry into the SARS outbreak recommended the use of N95 respirators, and not surgical masks, for health-care workers during a flu pandemic.
+<br><br>
+
+Andrea Ennis, a clinical nurse educator in North York General Hospital's emergency department, said the new masks will give nurses greater peace of mind when treating patients.
+<br><br>
+
+"To be able to have N95 masks, which prepare us against everything, causes a lot of decrease in the angst many nurses may have, especially in the emergency department, where we don't know what's coming through the door," she said.
+<br><br>
+
+The province has also amended the Occupational Health and Safety Act to make safety-engineered needles or needle-less systems mandatory in all hospitals starting Sept. 1, 2008. The measure will be phased in at other health-care settings over the next three years.
+<br><br>
+
+The move comes after dozens of Ontario nurses rallied outside the legislature in May to demand action on stalled legislation mandating the use of safety needles.
+<br><br>
+
+The Ontario Nurses' Association says around 70,000 Canadian health-care professionals are accidentally pricked by needles each year, and about half of those injuries take place in Ontario.
+<br><br>
+
+The association says safety needles would dramatically reduce the risk of nurses contracting hepatitis C or HIV.
+<br><br>
+
+The Ontario Safety Association for Community and Healthcare also applauded the government's announcement.
+<br><br>
+
+"Health-care workplaces in Ontario will be much safer when these new measures are fully implemented," association president Joseline Sikorski said in a release.
+<br><br>
+
+But opposition critics and the union representing registered nurse practitioners and other front-line workers derided yesterday's announcement as political jockeying in the lead-up to this fall's provincial election.
+<br><br>
+
+"Health-care workers' lives only have value when indeed, and only if indeed, they re-elect a Liberal government," said the union's executive assistant, John Van Beek. "That is just absolute manipulation of the worst kind."
+<br><br>
+
+NDP health critic Shelley Martel, whose private member's bill would have mandated the use of safety needles had it not twice died on the order paper, said she was "appalled" it took an election for the government to take action.
+<br><br>
+
+The government's recent spate of spending announcements is designed to win votes, Conservative health critic Elizabeth Witmer said.
+<br><br>
+
+"How gullible do they think the voters are going to be?" she asked. "They could have done this [earlier] if they were really serious about protecting the health and safety of the health-care employees."
+<br><br>
+
+But Mr. Smitherman said financial constraints kept the government from making the announcement earlier.
+<br><br>
+
+
+</div>
+
+<!--- MAIN CONTENT AREA ENDS --->
+
+</td>
+<td valign="top" bgcolor="#DBFAA9" width="206">
+
+<Table cellpadding="0" cellspacing="0" border="0" align="center" width="206">
+<tr>
+<td valign="top" bgcolor="#5A648A" width="206">
+<div class="sectionheading">
+Newsroom
+</div>
+
+<div>
+<span class="sectsubnavon"><a href="../cfiles/news.php">&bull; &nbsp; Press Releases</a></span>
+<span class="sectsubnav"><a href="../cfiles/news_media.php">&bull; &nbsp; Media Coverage</a></span>
+</div></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DBFAA9" width="206" class="hpcolumns">
+
+<br>
+"Nexera believes that the <strong>SpectraShield™ 9900</strong> and <strong>SpectraShield™ Plus FFP3</strong> antimicrobial respirator masks are the first antibacterial / antiviral respirator masks of its kind."<br><br>
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+
+<table cellpadding="0" cellspacing="10" border="0" align="center" width="970">
+<tr>
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/home.php">&bull; Home</a><br />
+<a href="../cfiles/products.php">&bull; Products</a><br />
+<a href="../cfiles/about.php">&bull; About Nexera</a><br />
+<a href="../cfiles/contact.php">&bull; Contact Us</a><br />
+<a href="../cfiles/about_privacy.php">&bull; Privacy Statement</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/news_resourcelinks.php">&bull; Related Resources</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Pandemic Preparedness</a><br />
+<a href="../cfiles/news.php">&bull; Nexera In The News</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Industry Resources</a><br />
+<a href="../cfiles/products_technology.php">&bull; About SpectraShield</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="350">
+<div class="footer">
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+Made in USA</div>
+<strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
+
+<br />
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+<br /><br />
+<!---
+<a href="../cfiles/regulatory.php?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<a href="../cfiles/regulatory.php?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../cfiles/regulatory.php?region=EU" style="font-size: 10pt;">&middot; European Union</a>
+</div>
+</td>
+
+<td valign="top" align="right" width="1" bgcolor="#CCCCCC">
+</td>
+
+<td valign="top" align="right">
+<div class="footer">
+Contact us for more information about our products.
+<br />
+<a href="tel:954.824.0700" style="font-size: 14pt;"><strong>954.824.0700</strong></a><br />
+<a href="mailto:info@NexeraMed.com" style="font-size: 14pt;">info@NexeraMed.com</a>
+<!--
+<span style="font-size: 14pt;">Tel: <strong>954.824.0700</strong></span>
+-->
+<br />
+<br />
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="5">
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+</td>
+</tr>
+</table>
+	
+	
+</div>
+
+</body>
+</html>

@@ -1,0 +1,390 @@
+
+<html>
+<head>
+	<title>Nexera Medical - Antimicrobial Protection that is Committed to Saving Lives. - Contact Nexera Medical</title>
+		
+<meta Name="description" Content="www.nexeramed.com <http://www.nexeramed.com> - Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health.  The SpectraShield&trade; 9900 Antimicrobial Respirator Masks with tested and proven protection against the Swine Flu and are the best choice for front line defense against infectious and contagious diseases, including the Avian Flu H5N1 Virus (commonly known as the bird flu), Tuberculosis, Streptococcus, staph infections, MRSA, and more."> 
+
+<meta Name="keywords" Content="Nexera,  Medical, Antimicrobial, Protection, Health, SpectraShield, Respirator, Masks, Swine Flu, Bird Flu, infectious, contagious, diseases, Avian Flu, H5N1, Virus, Tuberculosis, Streptococcus, staph, MRSA, N99, FFP3, Mask, outbreak">
+
+<link rel="stylesheet" href="../styles.css">
+
+<script language="javascript" type="text/javascript">
+
+function isEmpty(s)
+{
+		return ((s == null) || (s.length == 0))
+}
+
+
+function isWhitespace(s)
+{
+	var whitespace = " \t\n\r";				
+	var i;
+    if (isEmpty(s)) return true;
+
+    for (i = 0; i < s.length; i++)
+	{   
+		var c = s.charAt(i);
+		if (whitespace.indexOf(c) == -1) return false;
+    }
+    return true;
+}
+
+
+function checknsubmit()
+{
+	var company_name=document.DonateForm.company_name.value;
+	var first_name=document.DonateForm.first_name.value;
+	var last_name=document.DonateForm.last_name.value;
+	var address=document.DonateForm.address.value;
+	var city=document.DonateForm.city.value;
+	var state=document.DonateForm.state.value;
+	var postalcode=document.DonateForm.postalcode.value;
+	var country=document.DonateForm.country.value;
+	var telephone=document.DonateForm.telephone.value;
+	var email=document.DonateForm.email.value;
+
+	if (isWhitespace(company_name))
+	{
+		alert("Please Enter Company Name");
+		window.document.DonateForm.company_name.focus();	
+		return(false);
+	}			
+	if (isWhitespace(first_name))
+	{
+		alert("Please Enter First Name");
+		window.document.DonateForm.first_name.focus();	
+		return(false);
+	}				
+	if (isWhitespace(last_name))
+	{
+		alert("Please Enter Last Name");
+		window.document.DonateForm.last_name.focus();	
+		return(false);
+	}	
+	if (isWhitespace(address))
+	{
+		alert("Please Enter Address");
+		window.document.DonateForm.address.focus();	
+		return(false);
+	}				
+	if (isWhitespace(city))
+	{
+		alert("Please Enter City");
+		window.document.DonateForm.city.focus();	
+		return(false);
+	}				
+	if (isWhitespace(state))
+	{
+		alert("Please Enter State");
+		window.document.DonateForm.state.focus();	
+		return(false);
+	}				
+	if (isWhitespace(postalcode))
+	{
+		alert("Please Enter Postal Code");
+		window.document.DonateForm.postalcode.focus();	
+		return(false);
+	}				
+	if (isWhitespace(country))
+	{
+		alert("Please Enter Country");
+		window.document.DonateForm.country.focus();	
+		return(false);
+	}	
+	if (isWhitespace(telephone))
+	{
+		alert("Please Enter Phone Number");
+		window.document.DonateForm.telephone.focus();	
+		return(false);
+	}
+	if (isWhitespace(email))
+	{
+		alert("Please Enter Email Address");
+		window.document.DonateForm.email.focus();	
+		return(false);
+	}
+
+	return(true);
+} 
+
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LdassEqAAAAAMhAbU7lghVvGwUOeYvIyIXbOv_b"></script>
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LdassEqAAAAAMhAbU7lghVvGwUOeYvIyIXbOv_b', {action: 'submit'}).then(function(token) {
+            document.getElementById('g-recaptcha-response').value = token;
+        });
+    });
+</script>
+
+</head>
+
+
+<body>
+
+<div align="center">
+
+<!---
+<cfoutput>
+	<cfif session.regionsiteid EQ "unknown">
+					<cflocation url="/index.php" addtoken="no">
+	</cfif>
+</cfoutput>
+--->	
+
+		
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" width="300"><a href="../cfiles/home.php"><img src="../graphics/logo_hdmain.png" alt="Nexera Medical" width="250" height="70" border="0"></a></td>
+<td valign="top" width="670" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+	<tr>
+		<td valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" align="right">
+					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<td width="10"></td>
+                    <!---
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td>
+                    --->
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
+					<td width="10"></td>
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
+					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.php?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					</tr>
+				</table>
+				<br /><br />
+		</td>
+	</tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	</table>	
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+		<tr>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/home.php"> &nbsp; Home &nbsp; </a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/about.php">About Nexera</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/products.php">Products</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<!---		
+	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.php">Distributors</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	--->		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news_resourcelinks.php">Resources</a></div></td>
+	<!---
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.php">Newsroom</a></div></td>
+	--->
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/contact.php">Contact Us</a></div></td>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+		</tr>
+		</table>
+
+	<div class="mainsite">
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="744">
+
+<!--- MAIN CONTENT AREA STARTS --->
+
+<div class="stdcontent">
+
+
+<div class="hdtitlemain">Customer Inquiry Form:</div>
+
+<strong>Please complete the form below. (* Required fields)</strong>
+<br><br>
+<form name="DonateForm" action="cu_rform.php" method="post" onsubmit="return checknsubmit();">
+	<input type="hidden" name="lead_source" value="Nexera Website Visitor Inquiry">
+    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+	<div align="center">
+	<table border="0" class="Stdtext" width="450">
+	<tr><td>Company Name*:</td><td><input type="text" name="company_name"></td></tr>
+	<tr><td>Contact First Name*:</td><td><input  type="text" name="first_name" maxlength="50" size="30"></td></tr>
+	<tr><td>Contact Last Name*:</td><td><input  type="text" name="last_name" maxlength="50" size="30"></td></tr>
+	<tr><td>Address*:</td><td><input type="text" name="address"></td></tr> 
+	<tr><td>City*:</td><td><input type="text" name="city"></td></tr> 
+	<tr><td>State/Province*:</td><td><input type="text" name="state"></td></tr> 
+	<tr><td>Zip/Postal Code*:</td><td><input type="text" name="postalcode"></td></tr> 
+	<tr><td>Country*:</td><td><input type="text" name="country"></td></tr> 
+	<tr><td>Telephone*:</td><td><input  type="text" name="telephone" maxlength="30" size="30"></td></tr> 
+	<tr><td>Email*:</td><td><input  type="text" name="email" maxlength="80" size="30"></td></tr> 
+
+	<tr><td>Area of Business*:</td><td><select name="area_of_business">
+<option value="Unknown"> Please Choose...</option>
+<option value="Distributor"> Distributor </option>
+<option value="Retailer">  Retailer</option>
+<option value="Sales Agent"> Sales Agent </option>
+<option value="Other"> Other </option>
+	</select></td></tr>
+	
+	<tr><td>Number of Employees*:</td><td><select name="number_of_employees">
+		<option value="Unknown"> Please Choose...</option>
+		<option value="1-10"> 1-10</option>
+		<option value="10-20"> 10-20</option>
+		<option value="21-50"> 21-50</option>
+		<option value="51-100"> 51-100</option>
+		<option value="101-250"> 101-250</option>
+		<option value="251-750"> 251-750</option>
+		<option value="751-1500"> 751-1500</option>
+		<option value="1500+"> 1500+</option>
+	</select></td></tr>
+	
+<tr><td>Annual Revenue*:</td><td><select name="annual_revenue">
+		<option value="Unknown"> Please Choose...</option>
+		<option value="$1-$1M"> $1-$1M</option>
+		<option value="$1M-$2M"> $1M-$2M</option>
+		<option value="$2M-$5M"> $2M-$5M</option>
+		<option value="$5M-$10M"> $5M-$10M</option>
+		<option value="$10M-$20M"> $10M-$20M</option>
+		<option value="$20M-$40M"> $20M-$40M</option>
+		<option value="$50M+"> $50M+</option>
+	</select></td></tr>
+	
+	<tr>
+	<td width="33%" >Comment:</td>
+	<td width="67%"><textarea name="comments" tabindex="5" cols="30" rows="4"></textarea></td>
+</tr>
+	<tr><td></td><td><INPUT type=submit value="Submit" name="Submit">   <!--- <INPUT type=reset value="Reset Form" name="Submit2"> ---></td></tr></table>
+</form>
+
+
+</div>
+
+<!--- MAIN CONTENT AREA ENDS --->
+
+</td>
+<td valign="top" bgcolor="#CBE3F5" width="226">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="226">
+<tr>
+<td valign="top" bgcolor="#DEFDC5" width="226">
+
+<div class="sectionheading">
+Contact Nexera
+</div>
+
+<div style="color: #333333; padding: 20px 20px 20px 20px; font-size: 10pt;">
+<!---
+<strong>Nexera Medical Ltd.</strong><br>
+1201-11871 Horseshoe Way<br>
+Richmond, British Columbia, Canada,  V7A5H5
+<br><br>
+--->
+<!---
+<strong>Nexera Medical (UK) Limited</strong><br>
+10 Kestrel Close, Ewshot,<br>
+Farnham, Surrey United Kingdom, GU10STV
+<br><br>
+--->
+
+<strong>Nexera Medical, Inc</strong><br />
+Tel:  <a href="tel:954.824.0700"><strong>954.824.0700</strong></a><br />
+	<a href="mailto:info@NexeraMed.com">info@NexeraMed.com</a>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CBE3F5" width="226" class="hpcolumns1">
+
+<br>
+"Nexera believes that the <strong>SpectraShield&trade; 9900</strong> antimicrobial respirator masks are the first antibacterial / antiviral respirator masks of their kind."<br><br>
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+
+<table cellpadding="0" cellspacing="10" border="0" align="center" width="970">
+<tr>
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/home.php">&bull; Home</a><br />
+<a href="../cfiles/products.php">&bull; Products</a><br />
+<a href="../cfiles/about.php">&bull; About Nexera</a><br />
+<a href="../cfiles/contact.php">&bull; Contact Us</a><br />
+<a href="../cfiles/about_privacy.php">&bull; Privacy Statement</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/news_resourcelinks.php">&bull; Related Resources</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Pandemic Preparedness</a><br />
+<a href="../cfiles/news.php">&bull; Nexera In The News</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Industry Resources</a><br />
+<a href="../cfiles/products_technology.php">&bull; About SpectraShield</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="350">
+<div class="footer">
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+Made in USA</div>
+<strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
+
+<br />
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+<br /><br />
+<!---
+<a href="../cfiles/regulatory.php?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<a href="../cfiles/regulatory.php?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../cfiles/regulatory.php?region=EU" style="font-size: 10pt;">&middot; European Union</a>
+</div>
+</td>
+
+<td valign="top" align="right" width="1" bgcolor="#CCCCCC">
+</td>
+
+<td valign="top" align="right">
+<div class="footer">
+Contact us for more information about our products.
+<br />
+<a href="tel:954.824.0700" style="font-size: 14pt;"><strong>954.824.0700</strong></a><br />
+<a href="mailto:info@NexeraMed.com" style="font-size: 14pt;">info@NexeraMed.com</a>
+<!--
+<span style="font-size: 14pt;">Tel: <strong>954.824.0700</strong></span>
+-->
+<br />
+<br />
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="5">
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+</td>
+</tr>
+</table>
+	
+	
+</div>
+
+</body>
+</html>

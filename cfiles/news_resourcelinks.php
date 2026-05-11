@@ -1,0 +1,323 @@
+
+<html>
+<head>
+	<title>Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health. - Pandemic Preparedness</title>
+		
+<meta Name="description" Content="www.nexeramed.com <http://www.nexeramed.com> - Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health.  The SpectraShield&trade; 9900 Antimicrobial Respirator Masks with tested and proven protection against the Swine Flu and are the best choice for front line defense against infectious and contagious diseases, including the Avian Flu H5N1 Virus (commonly known as the bird flu), Tuberculosis, Streptococcus, staph infections, MRSA, and more."> 
+
+<meta Name="keywords" Content="Nexera,  Medical, Antimicrobial, Protection, Health, SpectraShield, Respirator, Masks, Swine Flu, Bird Flu, infectious, contagious, diseases, Avian Flu, H5N1, Virus, Tuberculosis, Streptococcus, staph, MRSA, N99, FFP3, Mask, outbreak">
+
+<link rel="stylesheet" href="../styles.css">
+
+</head>
+
+
+<body>
+
+<div align="center">
+
+<!---
+<cfoutput>
+	<cfif session.regionsiteid EQ "unknown">
+					<cflocation url="/index.php" addtoken="no">
+	</cfif>
+</cfoutput>
+--->	
+
+		
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" width="300"><a href="../cfiles/home.php"><img src="../graphics/logo_hdmain.png" alt="Nexera Medical" width="250" height="70" border="0"></a></td>
+<td valign="top" width="670" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+	<tr>
+		<td valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" align="right">
+					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<td width="10"></td>
+                    <!---
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td>
+                    --->
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
+					<td width="10"></td>
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
+					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.php?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					</tr>
+				</table>
+				<br /><br />
+		</td>
+	</tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	</table>	
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+		<tr>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/home.php"> &nbsp; Home &nbsp; </a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/about.php">About Nexera</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/products.php">Products</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<!---		
+	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.php">Distributors</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	--->		
+	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/news_resourcelinks.php">Resources</a></div></td>
+	<!---
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.php">Newsroom</a></div></td>
+	--->
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/contact.php">Contact Us</a></div></td>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+		</tr>
+		</table>
+
+	<div class="mainsite">
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="744">
+
+<!--- MAIN CONTENT AREA STARTS --->
+
+<div class="stdcontent">
+
+<div style="float: right; padding: 20px 20px 20px 20px;"><img src="../graphics/pandemic.gif" width="150" height="160" border="0" alt="Pandemic Peparedness"></div>
+
+<h1 class="hdtitlemain">Swine Flu Pandemic</h1>
+
+<strong>Centers for Disease Control and Prevention (CDC)</strong><br>
+<li> <a href="http://www.cdc.gov/swineflu/guidance/" target="new">http://www.cdc.gov/swineflu/guidance/</a><br>
+<li> <a href="http://www.cdc.gov/swineflu/recommendations.htm" target="new">http://www.cdc.gov/swineflu/recommendations.htm</a><br>
+<li> <a href="http://www.cdc.gov/swineflu/guidelines_infection_control.htm" target="new">http://www.cdc.gov/swineflu/guidelines_infection_control.htm</a><br><br>
+
+<strong>Guidance on the use of facemasks:</strong><br>
+<li> <a href="http://www.cdc.gov/swineflu/masks.htm" target="new">http://www.cdc.gov/swineflu/masks.htm</a>
+<br><br>
+
+<strong>If You Get Sick:</strong><br>
+<li> <a href="http://www.cdc.gov/flu/whattodo.htm" target="new">http://www.cdc.gov/flu/whattodo.htm</a><br>
+<li> <a href="http://www.cdc.gov/swineflu/guidance_homecare.htm" target="new">http://www.cdc.gov/swineflu/guidance_homecare.htm</a>
+<br><br>
+
+<strong>Preventing the Flu:</strong><br>
+<li> <a href="http://www.cdc.gov/flu/protect/habits.htm" target="new">http://www.cdc.gov/flu/protect/habits.htm</a>
+
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+
+<div class="hdtitlemain">Avian Flu Pandemic</div><br>
+
+<strong>The U.S. Food and Drug Adminstration</strong><br>
+<li> <a href="http://www.iom.edu/Object.File/Master/32/869/FDA%20presentation%201.23.06.pdf" target="new">http://www.iom.edu/Object.File/Master/32/869/FDA%20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;presentation%201.23.06.pdf</a><br>
+<li> <a href="http://www.fda.gov/cdrh/ppe/fluoutbreaks.html" target="new">http://www.fda.gov/cdrh/ppe/fluoutbreaks.html</a>
+<br><br>
+
+<strong>The U. S. Health and Human Services</strong><br>
+<li> <a href="http://www.iom.edu/CMS/3740/32033.aspx" target="new">http://www.iom.edu/CMS/3740/32033.aspx</a>
+<br><br>
+
+<strong>The Pandemic Alert from the U.S. Government</strong><br>
+<li> <a href="http://www.pandemicflu.gov/" target="new">http://www.pandemicflu.gov/</a>
+
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+<div class="hdtitlemain">Health Organizations</div><br>
+
+<strong>The World Health Organization</strong><br>
+<li> <a href="http://www.who.int/csr/disease/influenza/pandemic/en/" target="new">http://www.who.int/csr/disease/influenza/pandemic/en/</a>
+<br><br>
+
+<strong>Center for Disease Control</strong><br>
+<li> <a href="http://www.cdc.gov/flu/avian/professional/infect-control.htm" target="new">http://www.cdc.gov/flu/avian/professional/infect-control.htm</a><br><br>
+
+<strong>The Institute of Medicine</strong><br>
+<li> <a href="http://www.iom.edu/Object.File/Master/32/869/FDA%20presentation%201.23.06.pdf" target="new">http://www.iom.edu/Object.File/Master/32/869/FDA%20presentation%201.23.06.pdf</a><br>
+<li> <a href="http://www.fda.gov/cdrh/ppe/fluoutbreaks.html" target="new">http://www.fda.gov/cdrh/ppe/fluoutbreaks.html</a>
+
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+<div class="hdtitlemain">Foreign Governments</div><br>
+
+<strong>CANADA</strong><br>
+<li> <a href="http://www.phac-aspc.gc.ca/influenza/avian_e.html" target="new">http://www.phac-aspc.gc.ca/influenza/avian_e.html</a><br>
+<li> <a href="http://www.phac-aspc.gc.ca/cpip-pclcpi" target="new">http://www.phac-aspc.gc.ca/cpip-pclcpi</a><br><br>
+
+
+FRANCE</strong><br>
+<li> <a href="http://www.ambafrance-us.org/news/statmnts/2006/avianflu.pdf" target="new">http://www.ambafrance-us.org/news/statmnts/2006/avianflu.pdf</a><br>
+<li> <a href="http://www.premier-ministre.gouv.fr/en/information/reports_98/avian_influenza_prevention_protection_537/" target="new">http://www.premier-ministre.gouv.fr/en/information/reports_98/...</a>
+<br><br>
+
+<strong>AUSTRALIA</strong><br>
+<li> <a href="http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/phd-pandemic-plan.htm" target="new">http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/...</a><br>
+<li> <a href="http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/health-avian_influenza-faq.htm" target="new">http://www.health.gov.au/internet/wcms/Publishing.nsf/Content/...</a>
+<br><br>
+
+<strong>ITALY</strong><br>
+<li> <a href="http://italy.usembassy.gov/acs/avian.asp" target="new">http://italy.usembassy.gov/acs/avian.asp</a>
+<br><br>
+
+<strong>GERMANY</strong><br>
+<li> <a href="http://www.bundesregierung.de/nn_6516/Content/EN/Artikel/2006/02/2006-02-20-contingency-plans-for-a-possible-flu-pandemic.html" target="new">http://www.bundesregierung.de/nn_6516/Content/EN/Artikel/2006/02/...</a>
+<br><br>
+
+<strong>GREAT BRITAIN</strong><br>
+<li> <a href="http://www.dh.gov.uk/en/PandemicFlu/index.htm" target="new">http://www.dh.gov.uk/en/PandemicFlu/index.htm</a>
+<br><br>
+
+<strong>EUROPEAN UNION</strong><br>
+<li> <a href="http://www.eurosurveillance.org/em/v06n09/0609-222.asp" target="new">http://www.eurosurveillance.org/em/v06n09/0609-222.asp</a>
+<br><br>
+
+<strong>JAPAN</strong><br>
+<li> <a href="http://www.mhlw.go.jp/english/topics/influenza/pandemic01.html" target="new">http://www.mhlw.go.jp/english/topics/influenza/pandemic01.html</a>
+<br><br>
+
+<strong>UNITED ARAB EMERITES</strong><br>
+<li> <a href="http://uaeinteract.com/news/default.asp?cntDisplay=10&ID=341#21784" target="new">http://uaeinteract.com/news/default.asp?cntDisplay=10&ID=341#21784</a>
+<br><br>
+
+<strong>MIDDLE EAST REGION</strong><br>
+<li> <a href="http://www.bmj.com/cgi/content/full/333/7573/856?rss" target="new">http://www.bmj.com/cgi/content/full/333/7573/856?rss</a>
+<br><br>
+
+<strong>NEW ZEALAND</strong><br>
+<li> <a href="http://www.govt.nz/record?recordid=28127" target="new">http://www.govt.nz/record?recordid=28127</a>
+<br><br>
+
+<strong>INDIA</strong><br>
+<li> <a href="http://india.gov.in/outerwin.htm?id=http://www.mohfw.nic.in/depth.htm" target="new">http://india.gov.in/outerwin.htm?id=http://www.mohfw.nic.in/depth.htm</a>
+<br><br>
+
+<strong>SWEDEN</strong><br>
+<li> <a href="http://www.sweden.gov.se/sb/d/2946/a/61430" target="new">http://www.sweden.gov.se/sb/d/2946/a/61430</a>
+<br><br>
+
+<strong>FINLAND</strong><br>
+<li> <a href="http://www.government.fi/haku/en.jsp?query=AVIAN+FLU&andQuery=&orQuery=&onlyResults=true&dir=none&maxResults=20&language=en&hae=Search" target="new">http://www.government.fi/haku/en.jsp...</a>
+<br><br>
+
+</div>
+
+<!--- MAIN CONTENT AREA ENDS --->
+
+</td>
+<td valign="top" bgcolor="#CBE3F5" width="226">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="226">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="226">
+<div class="sectionheading">
+Newsroom
+</div>
+
+<div>
+<span class="sectsubnav"><a href="../cfiles/news.php">&bull; &nbsp; Press Releases</a></span>
+<span class="sectsubnav"><a href="../cfiles/news_media.php">&bull; &nbsp; Media Coverage</a></span>
+</div></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CBE3F5" width="226" class="hpcolumns1">
+
+<br>
+"Nexera believes that the <strong>SpectraShield&trade; 9900</strong> antimicrobial respirator masks are the first antibacterial / antiviral respirator masks of their kind."<br><br>
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+
+<table cellpadding="0" cellspacing="10" border="0" align="center" width="970">
+<tr>
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/home.php">&bull; Home</a><br />
+<a href="../cfiles/products.php">&bull; Products</a><br />
+<a href="../cfiles/about.php">&bull; About Nexera</a><br />
+<a href="../cfiles/contact.php">&bull; Contact Us</a><br />
+<a href="../cfiles/about_privacy.php">&bull; Privacy Statement</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/news_resourcelinks.php">&bull; Related Resources</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Pandemic Preparedness</a><br />
+<a href="../cfiles/news.php">&bull; Nexera In The News</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Industry Resources</a><br />
+<a href="../cfiles/products_technology.php">&bull; About SpectraShield</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="350">
+<div class="footer">
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+Made in USA</div>
+<strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
+
+<br />
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+<br /><br />
+<!---
+<a href="../cfiles/regulatory.php?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<a href="../cfiles/regulatory.php?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../cfiles/regulatory.php?region=EU" style="font-size: 10pt;">&middot; European Union</a>
+</div>
+</td>
+
+<td valign="top" align="right" width="1" bgcolor="#CCCCCC">
+</td>
+
+<td valign="top" align="right">
+<div class="footer">
+Contact us for more information about our products.
+<br />
+<a href="tel:954.824.0700" style="font-size: 14pt;"><strong>954.824.0700</strong></a><br />
+<a href="mailto:info@NexeraMed.com" style="font-size: 14pt;">info@NexeraMed.com</a>
+<!--
+<span style="font-size: 14pt;">Tel: <strong>954.824.0700</strong></span>
+-->
+<br />
+<br />
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="5">
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+</td>
+</tr>
+</table>
+	
+	
+</div>
+
+</body>
+</html>

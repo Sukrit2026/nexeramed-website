@@ -1,0 +1,287 @@
+
+<html>
+<head>
+	<title>Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health. - Products</title>
+	
+<meta Name="description" Content="www.nexeramed.com <http://www.nexeramed.com> - Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health.  The SpectraShield&trade; 9900 Antimicrobial Respirator Masks with tested and proven protection against the Swine Flu and are the best choice for front line defense against infectious and contagious diseases, including the Avian Flu H5N1 Virus (commonly known as the bird flu), Tuberculosis, Streptococcus, staph infections, MRSA, and more."> 
+
+<meta Name="keywords" Content="Nexera,  Medical, Antimicrobial, Protection, Health, SpectraShield, Respirator, Masks, Swine Flu, Bird Flu, infectious, contagious, diseases, Avian Flu, H5N1, Virus, Tuberculosis, Streptococcus, staph, MRSA, N99, FFP3, Mask, outbreak">
+
+<link rel="stylesheet" href="../styles.css">
+
+</head>
+
+
+<body>
+
+<div align="center">
+
+<!---
+<cfoutput>
+	<cfif session.regionsiteid EQ "unknown">
+					<cflocation url="/index.php" addtoken="no">
+	</cfif>
+</cfoutput>
+--->	
+
+		
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" width="300"><a href="../cfiles/home.php"><img src="../graphics/logo_hdmain.png" alt="Nexera Medical" width="250" height="70" border="0"></a></td>
+<td valign="top" width="670" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+	<tr>
+		<td valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" align="right">
+					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<td width="10"></td>
+                    <!---
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td>
+                    --->
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
+					<td width="10"></td>
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
+					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.php?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					</tr>
+				</table>
+				<br /><br />
+		</td>
+	</tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	</table>	
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+		<tr>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/home.php"> &nbsp; Home &nbsp; </a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/about.php">About Nexera</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>		
+	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/products.php">Products</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<!---		
+	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.php">Distributors</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	--->		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news_resourcelinks.php">Resources</a></div></td>
+	<!---
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.php">Newsroom</a></div></td>
+	--->
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/contact.php">Contact Us</a></div></td>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+		</tr>
+		</table>
+
+	<div class="mainsite">
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="744">
+
+<!--- MAIN CONTENT AREA STARTS --->
+
+<div class="stdcontent">
+<h1 class="hdtitlemain">Antimicrobial Technology</h1>
+
+The technology behind the SpectraShield&trade; Series of respirator masks is an amalgamation of proprietary and patented technologies resulting in an effective antimicrobial respirator mask.  We know of no other technology that offers the same long lasting and highly effective superior performance and attributes.  
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+
+<strong>What is the Antimicrobial Agent?</strong><br>
+
+The antimicrobial agent is an optimal blend of naturally existing silver and copper that are organic, yet very powerful.  For centuries, silver has been used in purification and medicinal purposes.  Today, the same antimicrobial agents have been used safely in medical and industrial applications from catheters, to ice machines, to food packaging.
+<br /><br />
+
+Thorough testing has shown the silver-copper antimicrobial compounds to be nontoxic and effective, making the agents perfectly suited for antimicrobial respirator masks.  These same antimicrobial agents are National Science Foundation (NSF) and U.S. Federal Drug Administration (FDA) listed and U.S. Environmental Protection Agency (EPA) registered.  They are also listed with the Cosmetic, Toiletry, and Fragrance Association as a cosmetic preservative and have the standard approval in Europe under the Biocidal Products Directive 
+ 
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+
+<strong>How does the Antimicrobial Agent work?</strong><br>
+
+<div style="float: right; padding: 10px 10px 10px 10px;"><img src="../graphics/zeolite.png" width="250" height="250" border="0" alt="zeolite antimicrobial agent"></div>
+
+The cornerstone to the technology is silver (Ag), a naturally occurring, safe, and effective antimicrobial agent in its ionic form.  The delivery system is a zeolite carrier that allows a controlled and effective release of the silver ions, on demand, thus killing and inhibiting the growth of bacteria, viruses, mold and fungus over long periods of time.  This stable ion exchange process is non-reactive and allows the compound to be used in virtually every imaginable manufacturing process.
+<br /><br />
+
+Silver and copper active elements are released at a steady rate as they interact with humidity in the environment, producing an antibacterial/antifungal/antiviral surface.  The moisture in the environment causes a controlled release of the copper and silver through a proprietary ionic exchange.
+<br /><br />
+
+The silver-copper zeolite antimicrobial agent is embedded throughout the fabric of the mask.  As humidity in the environment naturally interacts with the silver-copper zeolites, an ion is omitted which interacts with the cells of microorganism and interrupts its ability to function or reproduce.  This safe and nontoxic release of the ions are continuous and remain active over long periods of time. 
+<br /><br />
+
+In many applications, the antimicrobial compound has been shown to provide antimicrobial efficacy in just a few minutes while maintaining optimal killing and inhibitory performance for months.
+<br /><br />
+<div style="border-top: 4px #EEEEEE dotted;"></div>
+<br />
+
+<img src="../graphics/tech_img2.jpg" width="550" height="400" border="0" alt="Technology Diagram">
+<br /><br />
+
+<strong>How does the Antimicrobial Agent get into the SpectraShield&trade; mask?</strong><br />
+
+Through a proprietary patented process, the antimicrobial silver-copper zeolites are permanently embedded into the fibers at the origin of the manufacturing process which had been proven through extensive laboratory testing to eliminate any gassing or leaching off of the antimicrobial agent.  This ensures the mask to be completely safe for an individual's extended wear.  
+<br /><br />
+
+
+
+<table width="500" cellpadding="4" cellspacing="0" border="0" align="center">
+<tr>
+<td valign="top" width="500"><img src="../graphics/us_fig_1.gif" width="500" height="250" border="0" alt="The Antimicrobial Agent in SpectraShield&trade;"></a>
+</td>
+</tr>
+</table>
+
+
+<i>Source:  Fosshield&reg; fiber manufactured by Foss Manufacturing, LLC</i>
+<br><br>
+
+<hr size="1" color="#CCCCCC"><br>
+</div>
+
+<!--- MAIN CONTENT AREA ENDS --->
+
+</td>
+<td valign="top" bgcolor="#CBE3F5" width="226">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="226">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="226">
+<div class="sectionheading">
+Products
+</div>
+
+<!---
+<cfif cgi.SCRIPT_NAME contains "regulatory.php" and region eq "US">
+<cfelse>
+--->
+<div>
+
+<span class="sectsubnav"><a href="../cfiles/products.php">&bull; &nbsp; Respirator Masks</a></span>
+
+<!---
+<cfif cgi.SCRIPT_NAME contains "products_professional.php">
+<cfelse>
+--->
+
+<span class="sectsubnavon"><a href="../cfiles/products_antimicrobial.php">&bull; &nbsp; Antimicrobial Technology</a></span>
+<span class="sectsubnav"><a href="../cfiles/products_ptesting.php">&bull; &nbsp; Performance Testing</a></span>
+<span class="sectsubnav"><a href="../cfiles/products_technology.php">&bull; &nbsp; How The Mask Works</a></span>
+
+<!---
+</cfif>
+--->
+
+</div>
+<!---
+</cfif>
+---></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CBE3F5" width="226" class="hpcolumns1">
+
+<br>
+For <strong>Regulatory Approval / Clearance</strong> by Country:<br><br>
+<!---
+<li> <a href="../cfiles/regulatory.php?region=US">United States</a><br>&nbsp;&nbsp;&nbsp;&nbsp; FDA & NIOSH Cleared
+<br / ><br />
+--->
+<li> <a href="../cfiles/regulatory.php?region=CA">Canada</a><br / ><br />
+<li> <a href="../cfiles/regulatory.php?region=EU">European Union</a><br>&nbsp;&nbsp;&nbsp;&nbsp; EN149 Approved<br / ><br />
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+
+<table cellpadding="0" cellspacing="10" border="0" align="center" width="970">
+<tr>
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/home.php">&bull; Home</a><br />
+<a href="../cfiles/products.php">&bull; Products</a><br />
+<a href="../cfiles/about.php">&bull; About Nexera</a><br />
+<a href="../cfiles/contact.php">&bull; Contact Us</a><br />
+<a href="../cfiles/about_privacy.php">&bull; Privacy Statement</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/news_resourcelinks.php">&bull; Related Resources</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Pandemic Preparedness</a><br />
+<a href="../cfiles/news.php">&bull; Nexera In The News</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Industry Resources</a><br />
+<a href="../cfiles/products_technology.php">&bull; About SpectraShield</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="350">
+<div class="footer">
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+Made in USA</div>
+<strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
+
+<br />
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+<br /><br />
+<!---
+<a href="../cfiles/regulatory.php?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<a href="../cfiles/regulatory.php?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../cfiles/regulatory.php?region=EU" style="font-size: 10pt;">&middot; European Union</a>
+</div>
+</td>
+
+<td valign="top" align="right" width="1" bgcolor="#CCCCCC">
+</td>
+
+<td valign="top" align="right">
+<div class="footer">
+Contact us for more information about our products.
+<br />
+<a href="tel:954.824.0700" style="font-size: 14pt;"><strong>954.824.0700</strong></a><br />
+<a href="mailto:info@NexeraMed.com" style="font-size: 14pt;">info@NexeraMed.com</a>
+<!--
+<span style="font-size: 14pt;">Tel: <strong>954.824.0700</strong></span>
+-->
+<br />
+<br />
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="5">
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+</td>
+</tr>
+</table>
+	
+	
+</div>
+
+</body>
+</html>

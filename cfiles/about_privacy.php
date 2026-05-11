@@ -1,0 +1,234 @@
+
+<html>
+<head>
+	<title>Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health. - Privacy Statement</title>
+		
+<meta Name="description" Content="www.nexeramed.com <http://www.nexeramed.com> - Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health.  The SpectraShield&trade; 9900 Antimicrobial Respirator Masks with tested and proven protection against the Swine Flu and are the best choice for front line defense against infectious and contagious diseases, including the Avian Flu H5N1 Virus (commonly known as the bird flu), Tuberculosis, Streptococcus, staph infections, MRSA, and more."> 
+
+<meta Name="keywords" Content="Nexera,  Medical, Antimicrobial, Protection, Health, SpectraShield, Respirator, Masks, Swine Flu, Bird Flu, infectious, contagious, diseases, Avian Flu, H5N1, Virus, Tuberculosis, Streptococcus, staph, MRSA, N99, FFP3, Mask, outbreak">
+
+<link rel="stylesheet" href="../styles.css">
+
+</head>
+
+
+<body>
+
+<div align="center">
+
+<!---
+<cfoutput>
+	<cfif session.regionsiteid EQ "unknown">
+					<cflocation url="/index.php" addtoken="no">
+	</cfif>
+</cfoutput>
+--->	
+
+		
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" width="300"><a href="../cfiles/home.php"><img src="../graphics/logo_hdmain.png" alt="Nexera Medical" width="250" height="70" border="0"></a></td>
+<td valign="top" width="670" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+	<tr>
+		<td valign="top">
+				<table cellpadding="0" cellspacing="0" border="0" align="right">
+					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<td width="10"></td>
+                    <!---
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td>
+                    --->
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
+					<td width="10"></td>
+					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.php?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
+					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.php?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					</tr>
+				</table>
+				<br /><br />
+		</td>
+	</tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	</table>	
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+		<tr>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/home.php"> &nbsp; Home &nbsp; </a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/about.php">About Nexera</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/products.php">Products</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<!---		
+	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.php">Distributors</a></div></td>
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	--->		
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news_resourcelinks.php">Resources</a></div></td>
+	<!---
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.php">Newsroom</a></div></td>
+	--->
+	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/contact.php">Contact Us</a></div></td>
+	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td>
+		</tr>
+		</table>
+
+	<div class="mainsite">
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="744">
+
+<!--- MAIN CONTENT AREA STARTS --->
+
+<div class="stdcontent">
+
+<h1 class="hdtitlemain">Nexera Medical's Privacy Policy</h1>
+
+This privacy policy covers Nexera Medical's treatment of personally identifiable information that we collect when you are on our site, and when you use our services. This policy also applies to Nexera Medical's treatment of any personally identifiable information that our business partners share with us. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
+<br><br>
+
+<strong>Information Collection and Use</strong><br>
+We may collect personally identifiable information when you visit or use our pages. We may also receive personally identifiable information from our business partners. We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested. We may use this information for three general purposes: to customize the content you see, to fulfill your requests for certain services and information, and to contact you. 
+<br><br>
+
+<strong>Information Sharing and Disclosure </strong><br>
+We will not sell or rent your personally identifiable information to anyone. We will send personally identifiable information about you to other companies or people only when:
+<ol>
+<li> we have your consent to share the information; 
+<li> we need to share your information to provide the product or service you have requested; 
+<li> we need to send the information to companies who work on behalf of Nexera Medical to provide a product or service to you (unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); 
+<li> we respond to subpoenas, court orders or legal process; or 
+<li> we find that your actions on our web sites violate the above terms of service, or any of our usage guidelines for specific products or services. 
+</ol>
+
+<strong>Cookies</strong><br>
+We may set and access cookies on your computer.
+<br><br>
+
+
+</div>
+
+<!--- MAIN CONTENT AREA ENDS --->
+
+</td>
+<td valign="top" bgcolor="#CBE3F5" width="226">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="226">
+<tr>
+<td valign="top" bgcolor="#FFFFFF" width="226">
+<div class="sectionheading">
+About Nexera
+</div>
+
+<div>
+<span class="sectsubnav"><a href="../cfiles/about.php">&bull; &nbsp; Corporate Overview</a></span>
+<span class="sectsubnav"><a href="../cfiles/about_team.php">&bull; &nbsp; Management Team</a></span>
+<!--
+<span class="sectsubnav"><a href="../cfiles/about_board.php">&bull; &nbsp; Advisory Board Members</a></span>
+-->
+<span class="sectsubnav"><a href="../cfiles/about_investors.php">&bull; &nbsp; Investors</a></span>
+<!--
+<span class="sectsubnav"><a href="../cfiles/about_partners.php">&bull; &nbsp; Strategic Alliances</a></span>
+-->
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CBE3F5" width="226" class="hpcolumns1">
+
+<br>
+"Nexera believes that the <strong>SpectraShield&trade; 9900</strong> antimicrobial respirator masks are the first antibacterial / antiviral respirator masks of their kind."<br><br>
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+
+<table cellpadding="0" cellspacing="10" border="0" align="center" width="970">
+<tr>
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/home.php">&bull; Home</a><br />
+<a href="../cfiles/products.php">&bull; Products</a><br />
+<a href="../cfiles/about.php">&bull; About Nexera</a><br />
+<a href="../cfiles/contact.php">&bull; Contact Us</a><br />
+<a href="../cfiles/about_privacy.php">&bull; Privacy Statement</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="150">
+<div class="footer">
+<a href="../cfiles/news_resourcelinks.php">&bull; Related Resources</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Pandemic Preparedness</a><br />
+<a href="../cfiles/news.php">&bull; Nexera In The News</a><br />
+<a href="../cfiles/news_resourcelinks.php">&bull; Industry Resources</a><br />
+<a href="../cfiles/products_technology.php">&bull; About SpectraShield</a>
+</div>
+</td>
+
+<td valign="top" align="left" width="350">
+<div class="footer">
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+Made in USA</div>
+<strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
+
+<br />
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+<br /><br />
+<!---
+<a href="../cfiles/regulatory.php?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<a href="../cfiles/regulatory.php?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../cfiles/regulatory.php?region=EU" style="font-size: 10pt;">&middot; European Union</a>
+</div>
+</td>
+
+<td valign="top" align="right" width="1" bgcolor="#CCCCCC">
+</td>
+
+<td valign="top" align="right">
+<div class="footer">
+Contact us for more information about our products.
+<br />
+<a href="tel:954.824.0700" style="font-size: 14pt;"><strong>954.824.0700</strong></a><br />
+<a href="mailto:info@NexeraMed.com" style="font-size: 14pt;">info@NexeraMed.com</a>
+<!--
+<span style="font-size: 14pt;">Tel: <strong>954.824.0700</strong></span>
+-->
+<br />
+<br />
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="5">
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+</td>
+</tr>
+</table>
+	
+	
+</div>
+
+</body>
+</html>
