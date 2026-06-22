@@ -791,3 +791,23 @@ div.hpfeature {
 	-moz-opacity: .99;
 	-khtml-opacity: .99;
 }
+
+/* Product catalog table */
+.product-catalog { width: 100%; border-collapse: collapse; }
+.product-catalog th { background: #003D7E; color: #FFFFFF; padding: 8px 10px; font-size: 9pt; font-family: Arial, Helvetica, Verdana; text-align: left; }
+.product-catalog td { font-size: 9pt; font-family: Arial, Helvetica, Verdana; padding: 8px 10px; }
+
+/* Product cards on homepage */
+.product-card { border: 1px solid #EEEEEE; padding: 15px; background: #FFFFFF; vertical-align: top; }
+.product-card-title { font-size: 11pt; font-weight: bold; color: #003D7E; font-family: Arial, Helvetica, Verdana; }
+.product-card-subtitle { font-size: 8pt; color: #666666; font-family: Arial, Helvetica, Verdana; }
+.product-card-desc { font-size: 9pt; color: #333333; font-family: Arial, Helvetica, Verdana; padding-top: 8px; }
+
+/* Regulatory tab panels */
+.reg-tab-btn { padding: 8px 20px; font-size: 10pt; font-weight: bold; cursor: pointer; display: inline-block; }
+.reg-tab-btn-active { background: #003D7E; color: #FFFFFF; }
+.reg-tab-btn-inactive { background: #EEEEEE; color: #004C87; }
+.reg-panel { border: 1px solid #EEEEEE; padding: 15px; background: #F9F9F9; }
+
+/* USA banner */
+.usa-banner { font-size: 14pt; color: #fff; background-color: #003D7E; padding: 12px 20px; text-align: center; font-family: Arial, Helvetica, Verdana; font-weight: bold; }

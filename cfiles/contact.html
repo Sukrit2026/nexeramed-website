@@ -1,8 +1,9 @@
-﻿
-<html>
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
 	<title>Nexera Medical - Antimicrobial Protection that is Committed to Saving Lives. - Contact Nexera Medical</title>
-		
+	<meta charset="utf-8">
+
 <meta Name="description" Content="www.nexeramed.com <http://www.nexeramed.com> - Nexera Medical - Antimicrobial Protection that is Committed to Preserving Health.  The SpectraShield&trade; 9900 Antimicrobial Respirator Masks with tested and proven protection against the Swine Flu and are the best choice for front line defense against infectious and contagious diseases, including the Avian Flu H5N1 Virus (commonly known as the bird flu), Tuberculosis, Streptococcus, staph infections, MRSA, and more."> 
 
 <meta Name="keywords" Content="Nexera,  Medical, Antimicrobial, Protection, Health, SpectraShield, Respirator, Masks, Swine Flu, Bird Flu, infectious, contagious, diseases, Avian Flu, H5N1, Virus, Tuberculosis, Streptococcus, staph, MRSA, N99, FFP3, Mask, outbreak">
@@ -113,11 +114,13 @@ function checknsubmit()
 
 <script src="https://www.google.com/recaptcha/api.js?render=6LdassEqAAAAAMhAbU7lghVvGwUOeYvIyIXbOv_b"></script>
 <script>
-    grecaptcha.ready(function() {
-        grecaptcha.execute('6LdassEqAAAAAMhAbU7lghVvGwUOeYvIyIXbOv_b', {action: 'submit'}).then(function(token) {
-            document.getElementById('g-recaptcha-response').value = token;
+    if (typeof grecaptcha !== 'undefined') {
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LdassEqAAAAAMhAbU7lghVvGwUOeYvIyIXbOv_b', {action: 'submit'}).then(function(token) {
+                document.getElementById('g-recaptcha-response').value = token;
+            });
         });
-    });
+    }
 </script>
 
 </head>
@@ -127,13 +130,7 @@ function checknsubmit()
 
 <div align="center">
 
-<!---
-<cfoutput>
-	<cfif session.regionsiteid EQ "unknown">
-					<cflocation url="/index.html" addtoken="no">
-	</cfif>
-</cfoutput>
---->	
+	
 
 		
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="970">
@@ -144,22 +141,20 @@ function checknsubmit()
 	<tr>
 		<td valign="top">
 				<table cellpadding="0" cellspacing="0" border="0" align="right">
-					<tr><td valign="middle" align="right"><span style="color: ##CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
+					<tr><td valign="middle" align="right"><span style="color: #CCCCCC; font-family: Arial,Helvetica,Verdana; font-size: 10pt;">Product Claims:</span></td>
 					<td width="10"></td>
-                    <!---
-					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
-					<td width="10"></td>
-                    --->
+                    <!-- <td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=US"><img src="../graphics/regionflag_us.png" width="24" height="15" border="0" alt="United States Region"> United States</a></td>
+					<td width="10"></td> -->
 					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
 					<td width="10"></td>
 					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
-					<!--- <td width="120" valign="bottom"><a href="../cfiles/regulatory.html?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> --->
+					<!-- <td width="120" valign="bottom"><a href="../cfiles/regulatory.html?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> -->
 					</tr>
 				</table>
 				<br /><br />
 		</td>
 	</tr>
-	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!--- The Next Generation of Respriatory Protection ---><!--- Antimicrobial Protection That Is Committed To Preserving Health ---></div></td></tr>
+	<tr><td valign="top" align="right"><div class="hdtag">The Next "ERA" in Germ Killing Protection for Health and Safety <!-- The Next Generation of Respriatory Protection --><!-- Antimicrobial Protection That Is Committed To Preserving Health --></div></td></tr>
 	</table>	
 </td>
 </tr>
@@ -177,17 +172,11 @@ function checknsubmit()
 	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/products.html">Products</a></div></td>
 	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
 	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
-	<!---		
-	<td valign="middle" align="center"><div <cfif sectid eq "distributors">class="primarynavon"<cfelse>class="primarynav"</cfif>><a href="../cfiles/distributors.html">Distributors</a></div></td>
-	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
-	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
-	--->		
+			
 	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news_resourcelinks.html">Resources</a></div></td>
-	<!---
-	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
+	<!-- <td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
 	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
-	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.html">Newsroom</a></div></td>
-	--->
+	<td valign="middle" align="center"><div class="primarynav"><a href="../cfiles/news.html">Newsroom</a></div></td> -->
 	<td valign="top" bgcolor="#FFFFFF" width="1" height="1"></td> 
 	<td valign="top" bgcolor="#D9D9D9" width="1" height="1"></td> 
 	<td valign="middle" align="center"><div class="primarynavon"><a href="../cfiles/contact.html">Contact Us</a></div></td>
@@ -200,7 +189,7 @@ function checknsubmit()
 <tr>
 <td valign="top" bgcolor="#FFFFFF" width="744">
 
-<!--- MAIN CONTENT AREA STARTS --->
+<!-- MAIN CONTENT AREA STARTS -->
 
 <div class="stdcontent">
 
@@ -214,16 +203,16 @@ function checknsubmit()
     <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
 	<div align="center">
 	<table border="0" class="Stdtext" width="450">
-	<tr><td>Company Name*:</td><td><input type="text" name="company_name"></td></tr>
+	<tr><td>Company Name*:</td><td><input type="text" name="company_name" maxlength="100"></td></tr>
 	<tr><td>Contact First Name*:</td><td><input  type="text" name="first_name" maxlength="50" size="30"></td></tr>
 	<tr><td>Contact Last Name*:</td><td><input  type="text" name="last_name" maxlength="50" size="30"></td></tr>
-	<tr><td>Address*:</td><td><input type="text" name="address"></td></tr> 
-	<tr><td>City*:</td><td><input type="text" name="city"></td></tr> 
-	<tr><td>State/Province*:</td><td><input type="text" name="state"></td></tr> 
-	<tr><td>Zip/Postal Code*:</td><td><input type="text" name="postalcode"></td></tr> 
-	<tr><td>Country*:</td><td><input type="text" name="country"></td></tr> 
+	<tr><td>Address*:</td><td><input type="text" name="address" maxlength="200"></td></tr> 
+	<tr><td>City*:</td><td><input type="text" name="city" maxlength="50"></td></tr> 
+	<tr><td>State/Province*:</td><td><input type="text" name="state" maxlength="50"></td></tr> 
+	<tr><td>Zip/Postal Code*:</td><td><input type="text" name="postalcode" maxlength="20"></td></tr> 
+	<tr><td>Country*:</td><td><input type="text" name="country" maxlength="50"></td></tr> 
 	<tr><td>Telephone*:</td><td><input  type="text" name="telephone" maxlength="30" size="30"></td></tr> 
-	<tr><td>Email*:</td><td><input  type="text" name="email" maxlength="80" size="30"></td></tr> 
+	<tr><td>Email*:</td><td><input  type="email" name="email" maxlength="80" size="30"></td></tr> 
 
 	<tr><td>Area of Business*:</td><td><select name="area_of_business">
 <option value="Unknown"> Please Choose...</option>
@@ -260,13 +249,13 @@ function checknsubmit()
 	<td width="33%" >Comment:</td>
 	<td width="67%"><textarea name="comments" tabindex="5" cols="30" rows="4"></textarea></td>
 </tr>
-	<tr><td></td><td><INPUT type=submit value="Submit" name="Submit">   <!--- <INPUT type=reset value="Reset Form" name="Submit2"> ---></td></tr></table>
+	<tr><td></td><td><INPUT type=submit value="Submit" name="Submit">   <!-- <INPUT type=reset value="Reset Form" name="Submit2"> --></td></tr></table>
 </form>
 
 
 </div>
 
-<!--- MAIN CONTENT AREA ENDS --->
+<!-- MAIN CONTENT AREA ENDS -->
 
 </td>
 <td valign="top" bgcolor="#CBE3F5" width="226">
@@ -280,18 +269,14 @@ Contact Nexera
 </div>
 
 <div style="color: #333333; padding: 20px 20px 20px 20px; font-size: 10pt;">
-<!---
-<strong>Nexera Medical Ltd.</strong><br>
+<!-- <strong>Nexera Medical Ltd.</strong><br>
 1201-11871 Horseshoe Way<br>
 Richmond, British Columbia, Canada,  V7A5H5
-<br><br>
---->
-<!---
-<strong>Nexera Medical (UK) Limited</strong><br>
+<br><br> -->
+<!-- <strong>Nexera Medical (UK) Limited</strong><br>
 10 Kestrel Close, Ewshot,<br>
 Farnham, Surrey United Kingdom, GU10STV
-<br><br>
---->
+<br><br> -->
 
 <strong>Nexera Medical, Inc</strong><br />
 Tel:  <a href="tel:954.824.0700"><strong>954.824.0700</strong></a><br />
@@ -343,16 +328,14 @@ Tel:  <a href="tel:954.824.0700"><strong>954.824.0700</strong></a><br />
 
 <td valign="top" align="left" width="350">
 <div class="footer">
-<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Mask are Protected by Fosshield" width="80" border="0"><br />
+<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield Masks are Protected by Fosshield" width="80" border="0"><br />
 Made in USA</div>
 <strong>SpectraShield Defender, Guardian FFP2RD and Protector Mask.</strong>
 
 <br />
-To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the apporiate country/region:
+To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the appropriate country/region:
 <br /><br />
-<!---
-<a href="../cfiles/regulatory.html?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp;
---->
+<!-- <a href="../cfiles/regulatory.html?region=US" style="font-size: 10pt;">&middot; United States</a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="../cfiles/regulatory.html?region=CA" style="font-size: 10pt;">&middot; Canada</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../cfiles/regulatory.html?region=EU" style="font-size: 10pt;">&middot; European Union</a>
 </div>
@@ -378,7 +361,7 @@ Contact us for more information about our products.
 </tr>
 <tr>
 <td valign="top" align="left" colspan="5">
-<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved. New Server</div>
+<div style="color: #333333; font-family: Arial,Helvetica,Verdana; font-size: 8pt;">Copyright &copy; 2026 Nexera Medical. All rights reserved.</div>
 </td>
 </tr>
 </table>
