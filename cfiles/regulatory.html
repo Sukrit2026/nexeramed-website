@@ -12,7 +12,9 @@
 <script>
 function getRegion() {
   var params = new URLSearchParams(window.location.search);
-  return (params.get('region') || 'US').toUpperCase();
+  var region = (params.get('region') || 'US').toUpperCase();
+  // Fall back to US for any unrecognized region so a panel always shows.
+  return (['US', 'CA', 'EU'].indexOf(region) !== -1) ? region : 'US';
 }
 function init() {
   var region = getRegion();

@@ -24,7 +24,14 @@ const MIME = {
 http.createServer((req, res) => {
   let url = req.url.split('?')[0];
   if (url === '/') url = '/cfiles/home.html';
-  const filePath = path.join(ROOT, url);
+  try { url = decodeURIComponent(url); } catch (e) { /* keep raw on bad encoding */ }
+  // Contain every request to ROOT — reject path traversal (e.g. ../../etc/passwd).
+  const filePath = path.normalize(path.join(ROOT, url));
+  if (!filePath.startsWith(path.resolve(ROOT))) {
+    res.writeHead(403, { 'Content-Type': 'text/plain' });
+    res.end('Forbidden');
+    return;
+  }
   const ext = path.extname(filePath).toLowerCase();
   fs.readFile(filePath, (err, data) => {
     if (err) {

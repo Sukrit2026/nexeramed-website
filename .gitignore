@@ -7,3 +7,8 @@
 Thumbs.db
 *.log
 node_modules/
+
+# Internal working documents and review artifacts — must never deploy to GitHub Pages
+*.docx
+*.xlsx
+review-report.html

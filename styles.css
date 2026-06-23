@@ -1,6 +1,6 @@
 body 
 {
-	background: #EEEEEE url(graphics/bgtile2.jpg) no-repeat;
+	background: #EEEEEE;
 	/* background: #9A9A9A url(graphics/bgtile.jpg); */
 	color: #4D4D4D;
 	font-family: Arial, Helvetica, sans-serif;
@@ -73,7 +73,7 @@ div.mainsite
 	border-bottom: 1px solid #CCCCCC;
 	border-left: 0px solid #FFFFFF;
 	font: 9pt Arial, Helvetica, Verdana, sans-serif;
-	background: #EEEEEE url(graphics/hpnewsbg1.png) no-repeat top;
+	background: #EEEEEE;
 	color: #4D4D4D;
 	padding: 0px;
 	vertical-align: top;
@@ -86,7 +86,7 @@ div.mainsite
 	border-bottom: 0px solid #CCCCCC;
 	border-left: 0px solid #FFFFFF;
 	font: 9pt Arial, Helvetica, Verdana, sans-serif;
-	background: #EEEEEE url(graphics/hpfeaturebg2.png) no-repeat top;
+	background: #EEEEEE;
 	color: #4D4D4D;
 	padding: 0;
 	vertical-align: top;
@@ -153,7 +153,7 @@ div.mainsite
 }
 
 .hpcolumns1 {
-	background: #CBE3F5 url(graphics/hpcolumn1.jpg) repeat-x bottom;
+	background: #CBE3F5;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 9pt;
 	font-style: normal;
@@ -180,7 +180,7 @@ div.mainsite
 
 
 .hpcolumns3 {
-	background: #DBFAA9 url(graphics/hpcolumn3.jpg) repeat-x bottom;
+	background: #DBFAA9;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 9pt;
 	font-style: normal;
@@ -282,7 +282,7 @@ div.mainsite
 
 .primarynav a, .primarynav a:VISITED, .primarynav a:ACTIVE
 		{
-		background: #FFFFFF url(graphics/bg_hphd.jpg) repeat-x top left;
+		background: #FFFFFF;
 		border-top: 1px solid #D9D9D9;
 		border-right: 0px solid #D9D9D9;
 		border-bottom: 1px solid #D9D9D9;
@@ -325,7 +325,7 @@ div.mainsite
 
 .primarynavon a, .primarynavon a:VISITED, .primarynavon a:ACTIVE
 		{
-		background: #DBF9AB url(graphics/bg_hphd_green.jpg) repeat-x top left;
+		background: #DBF9AB;
 		border-top: 1px solid #D9D9D9;
 		border-right: 0px solid #D9D9D9;
 		border-bottom: 1px solid #D9D9D9;
