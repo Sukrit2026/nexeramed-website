@@ -300,14 +300,18 @@ div.mainsite
 		vertical-align: middle;
 	}	
 	
-.primarynav a:HOVER {
+.primarynav a:HOVER, .primarynav a:FOCUS, .primarynav a:ACTIVE {
+		/* Keep the nav label fully visible on hover, focus, and click.
+		   Previously the label could appear to vanish on hover; we now use a
+		   solid background plus bold dark-blue text for strong contrast in
+		   every interaction state. */
 		background: #DBF9AB;
 		border-top: 1px solid #D9D9D9;
 		border-right: 0px solid #D9D9D9;
 		border-bottom: 1px solid #D9D9D9;
 		border-left: 0px solid #D9D9D9;
 		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#005AA6;
+		color:#003D7E;
 		display:block;
 		text-decoration: none;
 		align: center;
@@ -315,7 +319,7 @@ div.mainsite
 		margin: 0px 0px 0px 0px;
 		font-size:14px;
 		font-style: normal;
-		font-weight: normal;
+		font-weight: bold;
 		vertical-align: middle;
 	}
 
@@ -338,14 +342,14 @@ div.mainsite
 		font-weight: normal;
 		vertical-align: middle;
 	}	
-.primarynavon a:HOVER {
+.primarynavon a:HOVER, .primarynavon a:FOCUS, .primarynavon a:ACTIVE {
 		background: #DBF9AB;
 		border-top: 1px solid #D9D9D9;
 		border-right: 0px solid #D9D9D9;
 		border-bottom: 1px solid #D9D9D9;
 		border-left: 0px solid #D9D9D9;
 		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#005AA6;
+		color:#003D7E;
 		display:block;
 		text-decoration: none;
 		align: center;
@@ -353,8 +357,8 @@ div.mainsite
 		margin: 0px 0px 0px 0px;
 		font-size:14px;
 		font-style: normal;
-		font-weight: normal;
-		vertical-align: middle;		
+		font-weight: bold;
+		vertical-align: middle;
 	}
 
 /*
