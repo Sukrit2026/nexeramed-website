@@ -10,33 +10,6 @@
 
 <link rel="stylesheet" href="../styles.css">
 
-<script type="text/javascript">
-var image_windowWindow=null;
-function image_window(mypage,myname,w,h,pos,infocus){
-
-if (window.screenX !== undefined) {
-     var winl = window.screenX;
-   }
-   else {
-     var winl = window.screenLeft;
-   }
-   if (window.screenY !== undefined) {
-      var wint = window.screenY;
-   }
-   else {
-      var wint = window.screenTop;
-   }
-
-if (pos == 'random')
-{LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
-else
-{LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
-settings='width='+ w + ',height='+ h + ',top=' + wint + ',left=' + winl + ',scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';image_windowWindow=window.open('',myname,settings);
-if(infocus=='front'){image_windowWindow.focus();image_windowWindow.location=mypage;}
-if(infocus=='back'){image_windowWindow.blur();image_windowWindow.location=mypage;image_windowWindow.blur();}
-
-}
-</script>
 </head>
 
 
@@ -62,7 +35,6 @@ if(infocus=='back'){image_windowWindow.blur();image_windowWindow.location=mypage
 					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=CA"><img src="../graphics/regionflag_ca.png" width="24" height="15" border="0" alt="Canada Region"> Canada</a></td>
 					<td width="10"></td>
 					<td valign="middle" align="right" style="font-family: Arial,Helvetica,Verdana; font-size: 9pt;"><a href="../cfiles/regulatory.html?region=EU"><img src="../graphics/regionflag_eu.png" width="24" height="15" border="0" alt="European Union"> European Union</a></td>
-					<!-- <td width="120" valign="bottom"><a href="../cfiles/regulatory.html?region=OT" onMouseOver="infOn('regionnav_ot_')" onMouseOut="infOff('regionnav_ot_')"><img src="../graphics/regionnav_ot_off.gif" width="120" height="35" border="0" alt="All Other Regions" ID="regionnav_ot_" Name="regionnav_ot_"></a></td> -->
 					</tr>
 				</table>
 				<br /><br />
@@ -258,9 +230,9 @@ Products
 <td valign="top" bgcolor="#CBE3F5" width="226" class="hpcolumns1">
 
 <br>
-<img src="../graphics/ss_dual_action.png" width="206" height="130" border="0" alt="SpectraShield dual action" style="margin-bottom: 12px;">
-<img src="../graphics/ss_kill_performance.png" width="206" height="125" border="0" alt="SpectraShield kill performance" style="margin-bottom: 12px;">
-<img src="../graphics/antimicrobial_longevity.png" width="206" height="114" border="0" alt="Antimicrobial longevity">
+<img loading="lazy"  src="../graphics/ss_dual_action.png" width="206" height="130" border="0" alt="SpectraShield dual action" style="margin-bottom: 12px;">
+<img loading="lazy"  src="../graphics/ss_kill_performance.png" width="206" height="125" border="0" alt="SpectraShield kill performance" style="margin-bottom: 12px;">
+<img loading="lazy"  src="../graphics/antimicrobial_longevity.png" width="206" height="114" border="0" alt="Antimicrobial longevity">
 
 </td>
 </tr>
@@ -298,9 +270,9 @@ Products
 
 <td valign="top" align="left" width="350">
 <div class="footer">
-<div style="float: right; text-align: center; font-size: 7pt;"><img src="../graphics/logo_spectrashield2.png" alt="SpectraShield&trade; Masks are Protected by Fosshield" width="80" border="0"><br />
+<div style="float: right; text-align: center; font-size: 7pt;"><img loading="lazy"  src="../graphics/logo_spectrashield2.png" alt="SpectraShield&trade; Masks are Protected by Fosshield" width="80" height="85" border="0"><br />
 Made in USA</div>
-<strong>SpectraShield&trade; Defender, Guardian FFP2RD and Protector Mask.</strong>
+<strong>SpectraShield&trade; Guardian and Defender Respirator Masks.</strong>
 
 <br />
 To learn more about the unique features of Nexera's SpectraShield&trade; Series N99 and FFP2 antimicrobial and antibacterial respirator masks click on the appropriate country/region:
