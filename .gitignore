@@ -12,3 +12,8 @@ node_modules/
 *.docx
 *.xlsx
 review-report.html
+
+resource-links-archive.html
+
+# Raw source-image drop folder (site uses graphics/ copies)
+images/
