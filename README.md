@@ -8,7 +8,6 @@ N95/N99 respirator masks. Static HTML/CSS/JS, hosted on GitHub Pages.
 ```
 nexeramed-website/
 ├── cfiles/        # Main site pages (HTML)
-├── nfiles/        # Archived news / press-release pages
 ├── dfiles/        # Product datasheets (PDF)
 ├── graphics/      # Images, logos, icons
 ├── styles.css     # Site stylesheet
