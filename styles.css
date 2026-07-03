@@ -825,7 +825,7 @@ img.zoomable { cursor: zoom-in; }
 	z-index: 9999; cursor: zoom-out; padding: 20px;
 }
 .lightbox-overlay.open { display: flex; }
-.lightbox-overlay img { max-width: 95%; max-height: 95%; background: #fff; box-shadow: 0 0 30px rgba(0,0,0,0.6); }
+.lightbox-overlay img { max-width: 95%; max-height: 95%; background: #CBE3F5; box-shadow: 0 0 30px rgba(0,0,0,0.6); }
 
 
 /* ============================================================
