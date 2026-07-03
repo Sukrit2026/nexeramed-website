@@ -9,6 +9,8 @@
 <meta name="keywords" content="Nexera Medical, SpectraShield, antimicrobial respirator, N95 mask, N99 mask, NIOSH approved, FDA cleared, made in USA, reusable respirator, Fosshield, infection protection">
 
 <link rel="stylesheet" href="../styles.css">
+<script>document.documentElement.className += " js";</script>
+<link rel="icon" href="../graphics/favicon.png" type="image/png">
 
 </head>
 
@@ -111,6 +113,7 @@ function switchRegTab(region) {
   for (var i = 0; i < tabs.length; i++) {
     var panel = document.getElementById('reg_' + tabs[i]);
     var btn = document.getElementById('tab_' + tabs[i]);
+    if (!panel || !btn) continue;
     if (tabs[i] === region) {
       panel.style.display = 'block';
       btn.style.background = '#003D7E';

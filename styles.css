@@ -1,7 +1,6 @@
 body 
 {
 	background: #EEEEEE;
-	/* background: #9A9A9A url(graphics/bgtile.jpg); */
 	color: #4D4D4D;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 8pt;
@@ -361,84 +360,6 @@ div.mainsite
 		vertical-align: middle;
 	}
 
-/*
-.primarynav a, .primarynav a:VISITED, .primarynav a:ACTIVE
-		{
-		border-top: 3px solid #FFFFFF;
-		border-right: 0px solid #FFFFFF;
-		border-bottom: 0px solid #FFFFFF;
-		border-left: 3px solid #FFFFFF;
-		background: #60A730;
-		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#FFFFFF;
-		display:block;
-		text-decoration: none;
-		align: center;
-		padding: 9px 0px 9px 0px;
-		margin: 0px 0px 0px 0px;
-		font-size:12px;
-		font-style: normal;
-		font-weight: bold;
-		vertical-align: middle;
-	}	
-	
-.primarynav a:HOVER {
-		border-top: 3px solid #FFFFFF;
-		border-right: 0px solid #FFFFFF;
-		border-bottom: 0px solid #FFFFFF;
-		border-left: 3px solid #FFFFFF;
-		background: #171D57;
-		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#FFFFFF;
-		display:block;
-		text-decoration: none;
-		align: center;
-		padding: 9px 0px 9px 0px;
-		margin: 0px 0px 0px 0px;
-		font-size:12px;
-		font-style: normal;
-		font-weight: bold;
-		vertical-align: middle;
-	}
-
-.primarynavon a, .primarynavon a:VISITED, .primarynavon a:ACTIVE
-		{
-		border-top: 3px solid #FFFFFF;
-		border-right: 0px solid #FFFFFF;
-		border-bottom: 0px solid #FFFFFF;
-		border-left: 3px solid #FFFFFF;
-		background: #171D57;
-		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#FFFFFF;
-		display:block;
-		text-decoration: none;
-		align: center;
-		padding: 9px 0px 9px 0px;
-		margin: 0px 0px 0px 0px;
-		font-size:12px;
-		font-style: normal;
-		font-weight: bold;
-		vertical-align: middle;
-	}	
-.primarynavon a:HOVER {
-		border-top: 3px solid #FFFFFF;
-		border-right: 0px solid #FFFFFF;
-		border-bottom: 0px solid #FFFFFF;
-		border-left: 3px solid #FFFFFF;
-		background: #171D57;
-		font-family: Arial, Helvetica, Verdana, sans-serif;
-		color:#FFFFFF;
-		display:block;
-		text-decoration: none;
-		align: center;
-		padding: 9px 0px 9px 0px;
-		margin: 0px 0px 0px 0px;
-		font-size:12px;
-		font-style: normal;
-		font-weight: bold;
-		vertical-align: middle;		
-	}
-*/		
 .sectsubnav a, .sectsubnav a:VISITED, .sectsubnav a:ACTIVE
 		{
 		border-top: 0px solid #669900;
@@ -882,7 +803,7 @@ img.zoomable { cursor: zoom-in; }
   /* --- Sticky mobile bar --- */
   .mnav {
     display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-    position: sticky; top: 0; z-index: 1000;
+    position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
     background: #FFFFFF; border-bottom: 3px solid #003D7E;
     padding: 8px 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);
   }
@@ -940,4 +861,19 @@ img.zoomable { cursor: zoom-in; }
 
 @media screen and (max-width: 820px) {
   .m-hide { display: none !important; }
+}
+
+/* Eliminate the mobile load flash/shift: hide the legacy desktop header+nav
+   before JS runs (gated by html.js so it degrades gracefully with JS off),
+   and reserve space for the fixed hamburger bar. */
+@media screen and (max-width: 820px) {
+  html.js body > div[align="center"] > table:nth-of-type(1),
+  html.js body > div[align="center"] > table:nth-of-type(2) { display: none !important; }
+  html.js body { padding-top: 68px; }
+}
+
+.lightbox-close {
+  position: fixed; top: 8px; right: 16px; z-index: 10000;
+  background: none; border: 0; color: #fff; font-size: 44px; line-height: 1;
+  cursor: pointer; padding: 4px 12px; text-shadow: 0 1px 3px rgba(0,0,0,0.6);
 }
