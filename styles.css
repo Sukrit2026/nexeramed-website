@@ -877,3 +877,6 @@ img.zoomable { cursor: zoom-in; }
   background: none; border: 0; color: #fff; font-size: 44px; line-height: 1;
   cursor: pointer; padding: 4px 12px; text-shadow: 0 1px 3px rgba(0,0,0,0.6);
 }
+
+/* Keep Product Catalog part numbers on one line */
+.product-catalog td:first-child, .product-catalog th:first-child { white-space: nowrap; }
