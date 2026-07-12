@@ -20,3 +20,6 @@ images/
 
 # Retired press-release archive (kept locally, not deployed)
 _retired_press_releases/
+
+# Second source-image drop folder (site uses graphics/ copies)
+images 2/
