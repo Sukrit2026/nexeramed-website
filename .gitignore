@@ -1,0 +1,25 @@
+.env
+.env.*
+*.bak
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+
+# Internal working documents and review artifacts — must never deploy to GitHub Pages
+*.docx
+*.xlsx
+review-report.html
+
+resource-links-archive.html
+
+# Raw source-image drop folder (site uses graphics/ copies)
+images/
+
+# Retired press-release archive (kept locally, not deployed)
+_retired_press_releases/
+
+# Second source-image drop folder (site uses graphics/ copies)
+images 2/

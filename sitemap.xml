@@ -6,132 +6,68 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.nexeramed.com/cfiles/home.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/home.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/regulatory.php?region=CA</loc>
+  <loc>https://www.nexeramed.com/cfiles/about.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/regulatory.php?region=EU</loc>
+  <loc>https://www.nexeramed.com/cfiles/about_investors.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/about.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/about_privacy.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/contact.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/news_resourcelinks.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/products.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/news.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/products_guardian.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/contact.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/products_antimicrobial.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products_defender.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/products_ptesting.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products_guardian2.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/products_technology.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products_guardian.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/regulatory.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/nfiles/news_110711_1.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/regulatory_CA.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products_antimicrobial.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/regulatory_EU.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/products_ptesting.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/news.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/nfiles/news_091511_1.php</loc>
+  <loc>https://www.nexeramed.com/cfiles/news_resourcelinks.html</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
 <url>
-  <loc>http://www.nexeramed.com/cfiles/about_privacy.php</loc>
+  <loc>https://www.nexeramed.com/dfiles/Nexera_Brochure.pdf</loc>
+  <lastmod>2026-06-22</lastmod>
 </url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/products_technology.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_board.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_investors.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_partners.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/news_media.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_090811_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_030811_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_042709_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_021209_2.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_021209_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_012209_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_110608_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_103007_FOSS_MRSA_PR.pdf</loc>
-  <lastmod>2014-10-29T21:13:16+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_090407_1.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_090407_2.php</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/dfiles/Guardian_FFP3.pdf</loc>
-  <lastmod>2014-10-29T19:18:48+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/dfiles/Guardian_FFP2.pdf</loc>
-  <lastmod>2014-10-29T19:18:47+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php?teamid=pasa</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php?teamid=jimo</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php?teamid=shwa</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php?teamid=akag</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_team.php?teamid=coca</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_board.php?boardid=clcr</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/cfiles/about_board.php?boardid=miam</loc>
-</url>
-<url>
-  <loc>http://www.nexeramed.com/nfiles/news_082407_1.php</loc>
-</url>
+
 </urlset>
